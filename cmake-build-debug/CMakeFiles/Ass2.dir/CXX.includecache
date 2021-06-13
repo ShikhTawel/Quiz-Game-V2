@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/Admin.h
+iostream
+-
+User.h
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/User.h
+algorithm
+-
+
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/Complete.h
+Question.h
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/Question.h
+bits/stdc++.h
+-
+
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/MCQ.h
+Question.h
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/Question.h
+bits/stdc++.h
+-
+
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/Player.h
+iostream
+-
+User.h
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/User.h
+algorithm
+-
+
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/Question.h
+bits/stdc++.h
+-
+
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/TF.h
+Question.h
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/Question.h
+bits/stdc++.h
+-
+
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/User.h
+vector
+-
+string
+-
+
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/main.cpp
+bits/stdc++.h
+-
+vector
+-
+iomanip
+-
+User.h
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/User.h
+Player.h
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/Player.h
+Admin.h
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/Admin.h
+Complete.h
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/Complete.h
+MCQ.h
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/MCQ.h
+TF.h
+E:/Education/FCAI-CU/Second Level/OOP/ASs/Ass2/TF.h
+
